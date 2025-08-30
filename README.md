@@ -17,4 +17,6 @@ helm search repo cloudflare
 ### Contents
 
 - `charts/cloudflare-tunnel`: Helm 3 chart using cloudflared best practices
+
+### Architecture
 ![Cloudflare Tunnel](tunnel-readme.png)
